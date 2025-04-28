@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Carro vermelho",
+        "descricao": "Carro vermelho com rodas redondas rsrs",
+        "preco": 27200.18,
+        "imagem_url": null
+    },
+    {
+        "nome": "carro vermelho",
+        "descricao": "carro com rodas redondas rsrs",
+        "preco": 16500.229999999963,
+        "imagem_url": null
+    }
+]
