@@ -1,7 +1,7 @@
   📦 Projeto: Cadastro de Produtos na Nuvem 📦
 
 Fala pessoal! Tudo certo? 😄
-Esse repositório é o resultado de um projeto que desenvolvi durante o Bootcamp Microsoft Azure Cloud Native. A ideia foi criar uma aplicação simples, mas funcional, para cadastrar produtos e gerenciar as informações diretamente na nuvem usando Azure. Bora ver como ficou?
+Essa pasta é o resultado de um projeto que desenvolvi durante o Bootcamp Microsoft Azure Cloud Native. A ideia foi criar uma aplicação simples, mas funcional, para cadastrar produtos e gerenciar as informações diretamente na nuvem usando Azure. Bora ver como ficou?
 
 
 
