@@ -1,0 +1,29 @@
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
+a {
+  color: #58a6ff;
+}
+.btn-primary {
+  background-color: #1f6feb;
+  border-color: #1f6feb;
+}
+.btn-success {
+  background-color: #238636;
+  border-color: #238636;
+}
+.btn-secondary {
+  background-color: #6e7681;
+  border-color: #6e7681;
+}
+.card {
+  background-color: #161b22;
+  border: none;
+}
+textarea, input, .form-control {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  border-color: #30363d;
+}
